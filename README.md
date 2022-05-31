@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Julio Afonso</h1>
 <h3 align="center">Um desenvolvedor Android. JAVA | KOTLIN</h3>
 
-- 🌱 Atualmente estou aprendendo **Desenvolvimento Android**
+- 🌱 Atualmente estou estudando **Desenvolvimento Android**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
