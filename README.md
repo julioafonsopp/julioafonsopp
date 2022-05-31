@@ -1,7 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou o Julio Afonso</h1>
-<h3 align="center">Um desenvolvedor Android. JAVA | KOTLIN</h3>
+<h3 align="center">Um desenvolvedor Android</h3>
 
 - 🌱 Atualmente estou estudando **Desenvolvimento Android**
+- 📱 Desenvolvimento Mobile, utilizando as linguagens KOTLIN E JAVA. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
